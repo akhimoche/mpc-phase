@@ -8,7 +8,7 @@ The general endocytic process involves a cell membrane that can be deformed usin
 
 <img src="/images/fig1.png" width="500" height="330" /> <img src="/images/fig2.png" width="500" height="330"/>
 
-This repository contains data of the chemcial concentrations present at the active site recorded during an observation of macropinocytosis, and the subsequent data analysis. 
+This repository contains data of the chemcial concentrations present at the active site recorded during an observation of macropinocytosis, and the subsequent data analysis of various chemical combinations for potential two-component reaction-diffusion systems. 
 
 ## Methodology
 
