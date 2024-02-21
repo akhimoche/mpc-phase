@@ -6,7 +6,7 @@ Many biochemical processes in a cell depend on the extracellular material it abs
 
 The general endocytic process involves a cell membrane that can be deformed using a dynamic mechanical device (e.g via deformation forces from a local network of cells) to internalise external fluids in a vesicle. In the case of macropinocytosis, a circular deformation develops into a 'cup' that retains the external fluid in a vesicle (macropinosome) by means of fusion at the top rims of the cup (see Figure 1). Unlike other endocytic methods which involve binding of the external molecules to surface receptors, macropinocytosis is driven by a ring of polymerised actin at the edges of the active site that is covered with a layer of PIP3 lipid  (see Figure 2). There is evidence to suggest that PIP3 inhibits the growth of the cell surface thereby leading to the cup formation, though the exact mechanism for formation is not fully known. 
 
-<img src="/images/fig1.png" width="500" height="330" /> <img src="/images/fig2.png" width="500" height="330"/>
+<img src="/images/fig1.png" width="400" height="300" /> <img src="/images/fig2.png" width="400" height="300"/>
 
 This repository contains data of the chemcial concentrations present at the active site recorded during an observation of macropinocytosis, and the subsequent data analysis of various chemical combinations for potential two-component reaction-diffusion systems. 
 
