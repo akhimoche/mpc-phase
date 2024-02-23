@@ -38,7 +38,7 @@ Therefore, the chosen approach uses spline interpolation to find the root values
 
 ## Analysis
 
-Using a unique projection of the phase space we were able to find a unique geometry that separated the above phase plots into interesting layers (see Figure 6). This `boomerang' shape suggests that within the 60s period there are unique 'regimes' of behaviour that warrant investigation. We isolate these ranges to be
+Using a unique projection of the phase space we were able to find a unique geometry that separated the above phase plots into interesting layers (see Figure 6). This `boomerang' shape suggests that within the 60s period there are unique 'regimes' of behaviour that warrant investigation. We isolate these ranges to be Regime 1 (60-48), Regime 2 (36-27), Regime 3 (18-0)
 
 <p align="center">
  <img src="/images/fig6.png" width="500" height="500"/>
