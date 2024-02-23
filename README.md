@@ -20,14 +20,14 @@ The period of macropinocytosis studied was the final 60 seconds until closure of
 To plot a phase diagram, the concentrations of chemicals present are plotted against each other across the range of time studied. The primary systems studied in this report were two-component systems involving PIP3 as this series of phase diagrams had easily recognisable non-linear phenomena present (such as Hopf bifurcations) and clear correlation between the dynamical variables considered (for example, see PIP3/Actin system in Figure 3). 
 
 <p align="center">
- <img src="/images/fig3.png" width="600" height="400"/>
+ <img src="/images/fig3.png" width="500" height="500"/>
 </p>
 
 PIP3 is the lipid that covers the active site before the cell membrane undergoes deformation and so is likely to play a crucial role in the RD system that drives the cup formation. This is not to say there is no other interesting behaviour for other two-component systems involving different chemicals (see Myo1E/Actin in Figure 4) but we leave these for further work. Some other systems (e.g PTEN-PI34P2 in Figure 5) indicate there is no significant interaction between the chemicals.
 
 <p align="center">
- <img src="/images/fig4.png" width="600" height="400" /> 
- <img src="/images/fig5.png" width="600" height="400"/>
+ <img src="/images/fig4.png" width="500" height="500" /> 
+ <img src="/images/fig5.png" width="500" height="500" />
 </p>
 
 The dX/dt values are approximated by calculating the difference between successive chemical concentration values and dividing by the basic time interval of recording. These are represented as the vector arrows in the phase plot. The objective is to find the nullclines of these phase plots. The main difficulty in doing this is that establishing where exactly dX/dt=0 is within an appropriate tolerance to account for the limitations of the experimental data, and what form that tolerance would take. 
@@ -41,7 +41,7 @@ Therefore, the chosen approach uses spline interpolation to find the root values
 Using a unique projection of the phase space we were able to find a unique geometry that separated the above phase plots into interesting layers (see Figure 6). This `boomerang' shape suggests that within the 60s period there are unique 'regimes' of behaviour that warrant investigation. We isolate these ranges to be
 
 <p align="center">
- <img src="/images/fig6.png" width="600" height="400"/>
+ <img src="/images/fig6.png" width="500" height="500"/>
 </p>
 
 ## Context
