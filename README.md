@@ -25,6 +25,9 @@ To plot a phase diagram, the concentrations of chemicals present are plotted aga
 
 PIP3 is the lipid that covers the active site before the cell membrane undergoes deformation and so is likely to play a crucial role in the RD system that drives the cup formation. This is not to say there is no other interesting behaviour for other two-component systems involving different chemicals (see Myo1E/Actin in Figure 4) but we leave these for further work. Some other systems (e.g PTEN-PI34P2 in Figure 5) indicate there is no significant interaction between the chemicals.
 
-<img src="/images/fig4.png" width="500" height="330" /> <img src="/images/fig5.png" width="500" height="330"/>
+<p align="center">
+ <img src="/images/fig4.png" width="500" height="330" /> 
+ <img src="/images/fig5.png" width="500" height="330"/>
+</p>
 
 ## Context
