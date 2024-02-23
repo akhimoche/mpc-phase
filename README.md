@@ -44,6 +44,17 @@ Using a unique projection of the phase space we were able to find a unique geome
  <img src="/images/fig6.png" width="500" height="500"/>
 </p>
 
-Each two-component system has different non-linear phenomena but we have found PIP3-NAP and PIP3-Actin to be the main systems of interest. 
+Each two-component system has different non-linear phenomena but we have found PIP3-NAP and PIP3-Actin to be the main systems of interest. Further work would look at the relation between n>2 component systems, though the transformation used in this project would no longer apply. 
 
 ## Context
+
+1. Bloomfield. G, Kay. R. R,. \textit{Journal of Cell Science} \textbf{129} pp. 2697-2705 (2016)
+1. Swanson. J, Watts. C,. \textit{Trends in Cell Biology} \textbf{5}(11) pp. 424-428 (1995)
+3. Lin. X, Mintern. J, Gleeson. P,. \textit{Membranes} \textbf{10}(8) pp. 177 (2020)
+4. Kondo. S, Muira. T,. \textit{Science} \textbf{329}(5999) pp. 1616-1620 (2010)
+5. Turing. A, \textit{Philosophical Transactions of the Royal Society of London. Series B}, Biological Sciences \textbf{237}(641) pp. 37-72 (1952)
+6. Landge. A, Jordan. B, Diego. X, Müller. P,. \textit{Developmental Biology} \textbf{460}(1) pp. 2-11 (2020)
+7. Guin. L. N, Acharya. S,. \textit{Nonlinear Dynamics} \textbf{88} pp. 1501–1533 (2017)
+8. Meinhardt. H, Gierer. A,. \textit{Kybernetik} \textbf{12} pp. 30-39 (1972)
+9. Strijov. V, Weber. G. W,. \textit{Computers and Mathematics with Applications} \textbf{60}(4) pp. 981-988 (2010)
+10. M. Zabihi, S. Kiranyaz, V. Jäntti, T. Lipping, M. Gabbouj,. \textit{IEEE Journal of Biomedical and Health Informatics} \textbf{24}(2) pp. 543-555 (2020)
