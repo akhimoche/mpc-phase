@@ -30,4 +30,16 @@ PIP3 is the lipid that covers the active site before the cell membrane undergoes
  <img src="/images/fig5.png" width="600" height="400"/>
 </p>
 
+The dX/dt values are approximated by calculating the difference between successive chemical concentration values and dividing by the basic time interval of recording. These are represented as the vector arrows in the phase plot. The objective is to find the nullclines of these phase plots. The main difficulty in doing this is that establishing where exactly dX/dt=0 is within an appropriate tolerance to account for the limitations of the experimental data, and what form that tolerance would take. 
+
+The first approach involved using a tolerance about dx(i)/dt = 0 to test each point in the phase space. Those that fall within the tolerance are assumed to be those that lie on the respective nullcline. This was initially an numerical tolerance, the precise value being either arbitrarily chosen or a percentage of the range of the data. This proved to be unreliable as the nullcline points being extracted were too few to make any meaningful analysis. Moreover, analysing the evolution of dX/dt during the episode suggested that a number of nullcline points were being missed as the density of points varied throughout. Therefore, the chosen approach uses spline interpolation to find the root values for the dX(i)/dt graph and approximate the relevant phase coordinates at these points. This was done under the assumption that the instantaneous dX(i)/dt values calculated formed a continuous curve with respect to time (a positive dX/dt value followed by a negative dX/dt value must imply that dX/dt = 0 was achieved between the times until closure at which they were recorded). Critical points are such where dX(i)/dt=dX(j)/dt=...=0.
+
+## Analysis
+
+Using a unique projection of the phase space we were able to find a unique geometry that separated the above phase plots into interesting layers (see Figure 6). This `boomerang' shape suggests that within the 60s period there are unique 'regimes' of behaviour that warrant investigation. We isolate these ranges to be
+
+<p align="center">
+ <img src="/images/fig6.png" width="600" height="400"/>
+</p>
+
 ## Context
