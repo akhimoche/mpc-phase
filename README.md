@@ -46,7 +46,9 @@ Using a unique projection of the phase space we were able to find a unique geome
 
 Each two-component system has different non-linear phenomena but we have found PIP3-NAP and PIP3-Actin to be the main systems of interest. Further work would look at the relation between n>2 component systems, though the transformation used in this project would no longer apply as it is laid out below:
 
-f(x,Y) = sqrt[(dX/dt)**2 + (dYdt)**2] + (X*Y)**2
+f(X,Y) = sqrt[(dX/dt)**2 + (dY/dt)**2] + (X*Y)**2
+
+That is, for any two chemicals X and Y, the above transformation is what shows the boomerang.
 
 
 ## Context
