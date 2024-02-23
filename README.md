@@ -20,14 +20,14 @@ The period of macropinocytosis studied was the final 60 seconds until closure of
 To plot a phase diagram, the concentrations of chemicals present are plotted against each other across the range of time studied. The primary systems studied in this report were two-component systems involving PIP3 as this series of phase diagrams had easily recognisable non-linear phenomena present (such as Hopf bifurcations) and clear correlation between the dynamical variables considered (for example, see PIP3/Actin system in Figure 3). 
 
 <p align="center">
- <img src="/images/fig3.png" width="500" height="330"/>
+ <img src="/images/fig3.png" width="600" height="400"/>
 </p>
 
 PIP3 is the lipid that covers the active site before the cell membrane undergoes deformation and so is likely to play a crucial role in the RD system that drives the cup formation. This is not to say there is no other interesting behaviour for other two-component systems involving different chemicals (see Myo1E/Actin in Figure 4) but we leave these for further work. Some other systems (e.g PTEN-PI34P2 in Figure 5) indicate there is no significant interaction between the chemicals.
 
 <p align="center">
- <img src="/images/fig4.png" width="500" height="330" /> 
- <img src="/images/fig5.png" width="500" height="330"/>
+ <img src="/images/fig4.png" width="600" height="400" /> 
+ <img src="/images/fig5.png" width="600" height="400"/>
 </p>
 
 ## Context
